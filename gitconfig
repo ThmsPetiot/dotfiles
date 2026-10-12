@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = thomas.petiot.01@gmail.com
+	email = gh api thomas.petiot.01@gmail.com
 	name = thomas petiot
